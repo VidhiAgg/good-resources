@@ -1,0 +1,83 @@
+:root {
+  --primary-color: #682888;
+  --max-width: 600px;
+  --button-color: #e8dbee;
+}
+.App {
+  margin: auto;
+}
+nav {
+  margin: -0.5rem;
+  background-color: var(--primary-color);
+  text-align: center;
+  color: #efefef;
+}
+body {
+  font-family: Open Sans, sans-serif;
+  background-color: #efefef;
+}
+
+main {
+  margin: auto;
+  max-width: var(--max-width);
+  padding: 1rem;
+}
+button {
+  font-weight: 600;
+  color: #616161;
+  font-size: 1rem;
+  border: hidden;
+}
+button:hover {
+  background-color: var(--button-color);
+  border: hidden;
+}
+button:focus {
+  background-color: var(--button-color);
+  border-bottom: 0.2rem solid var(--primary-color);
+}
+hr {
+  margin-top: 0rem;
+}
+.resouces-list {
+  list-style: none;
+  text-align: left;
+}
+.li-inline {
+  padding: 1rem;
+  margin: auto;
+}
+li:hover {
+  background-color: var(--button-color);
+  border: hidden;
+  cursor: pointer;
+  font-weight: 900;
+  color: var(--primary-color);
+  border: 0.1rem gray var(--primary-color);
+  box-shadow: 5px 5px 6px 2px gray;
+}
+
+.image {
+  max-width: 200px;
+}
+.resorceList-div {
+  margin: auto;
+  display: block;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 2rem;
+  background-color: var(--primary-color);
+  text-align: center;
+  margin: -0.5rem;
+  color: #efefef;
+}
+.link-href {
+  text-decoration: none;
+  color: #e8dbee;
+}
+.link-href:hover {
+  font-weight: 700;
+}
