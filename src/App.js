@@ -18,24 +18,17 @@ const bookdictionary = {
   ],
   business: [
     {
-      name: "Siva Trilogy",
+      name: "The Pursuit of Happyness",
       rating: "5/5"
     },
-    { name: "Harry Potter", rating: "4.5/5" }
+    { name: "Steve Jobs", rating: "4/5" }
   ],
   thrilled: [
     {
-      name: "Siva Trilogy",
+      name: "Sherlock Holmes",
       rating: "5/5"
     },
-    { name: "Harry Potter", rating: "4.5/5" }
-  ],
-  fiction: [
-    {
-      name: "Siva Trilogy",
-      rating: "5/5"
-    },
-    { name: "Harry Potter", rating: "4.5/5" }
+    { name: "Enola Holmes", rating: "4.5/5" }
   ]
 };
 
