@@ -1,3 +1,9 @@
 # good-resources
-It is the application which will tell you all the good Resources. Code can be accesed on
+It is the application which will tell you all the good Resources. 
+## Tech Stack used:
+* HTML 5
+* CSS
+* JAVASCRIPT
+
+#### You can visit the website by clicking  csb-elnl8t.netlify.app/
 
