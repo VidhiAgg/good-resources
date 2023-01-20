@@ -5,5 +5,5 @@ It is the application which will tell you all the good Resources.
 * CSS
 * JAVASCRIPT
 
-#### You can visit the website by clicking  https://csb-elnl8t.netlify.app/
+#### You can visit the website by clicking  https://csb-6gmtoi.netlify.app/
 
