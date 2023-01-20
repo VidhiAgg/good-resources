@@ -21,7 +21,7 @@ const bookdictionary = {
       rating: "3.5/5"
     }
   ],
-darama: [
+  darama: [
     {
       name: "Games of Thrones",
       description:
@@ -83,9 +83,8 @@ darama: [
   ]
 };
 
-
 export default function App() {
-  const [selectedGenre, setGenre] = useState("fiction");
+  const [selectedGenre, setGenre] = useState("darama");
   function genreClickHandler(genre) {
     setGenre(genre);
   }
