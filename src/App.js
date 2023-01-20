@@ -142,7 +142,7 @@ export default function App() {
         <div>
           A project by
           <a
-            class="link-href"
+            className="link-href"
             href="https://vidhiaggarwal.netlify.app/"
             title="Click it! To know more about me"
           >
