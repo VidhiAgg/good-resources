@@ -137,7 +137,7 @@ export default function App() {
           </ul>
         </div>
       </main>
-
+      <br />
       <footer>
         <div>
           A project by
@@ -150,7 +150,6 @@ export default function App() {
             Vidhi Aggarwal ❤️
           </a>
         </div>
-        ©️
       </footer>
     </div>
   );
